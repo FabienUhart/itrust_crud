@@ -1,7 +1,7 @@
 **Ma todo List:**
 
 Temps de réalisation:
-    2 Jours et demi
+    2 jours et demi
 
 Utilisation:
     Le Projet etait de réaliser des todos listes avec un délai de temps
@@ -25,6 +25,9 @@ Problématiques:
 		https://www.youtube.com/watch?v=sBws8MSXN7A&fbclid=IwAR3QasIbxNmwrEDqmxLOR-NFyE_6RpyH2RPYMf5KUYrmj6sLIPJiy3O3qog
 	- npm ne voulait pas se lancer
 	- la gestion des states en second lieu ne se faisait pas
-	
+
+Demande en rapport aux tests:	
 	Il m'a été compliqué de gérer la structure de ReactJs et la gestion des dates
 	Il manque le changement de classe ou de style en rapport à une todo validé
+	La gestion des items auraient pu être gérer avec une méthode json
+	J'aurais aimé intégrer une base de donnée
